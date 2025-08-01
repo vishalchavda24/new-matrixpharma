@@ -3267,3 +3267,7 @@ p.title.text-center {
     height: 76px!important;
 }
 }
+
+.MenuToggle_menu__dQLUw {
+    transition: opacity 1.5s ease-in !important;;
+}
