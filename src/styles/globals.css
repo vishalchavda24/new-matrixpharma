@@ -3248,3 +3248,18 @@ p.title.text-center {
     margin-bottom: 55px!important;
 }
 
+
+.MenuToggle_menuToggle__YAo5f {
+    height: 96px !important;
+}
+
+
+@media only screen and (max-width:425px) {
+.StickyHeader_header__ZkV_Y {
+    min-height: 84px!important;
+}
+
+.MenuToggle_menuToggle__YAo5f {
+    height: 92px !important;
+}
+}
