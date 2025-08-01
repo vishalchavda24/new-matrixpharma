@@ -3215,6 +3215,10 @@ img.custom-img {
 .esg-vision .title {
     margin-top: 20px;
 }
+  
+  .supplier-vision .container {
+    padding-bottom: 40px;
+}
 }
 
 .esg-vision .sub-text {
@@ -3244,6 +3248,3 @@ p.title.text-center {
     margin-bottom: 55px!important;
 }
 
-.supplier-vision .container {
-    padding-bottom: 40px;
-}
