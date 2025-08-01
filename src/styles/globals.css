@@ -3190,3 +3190,29 @@ a {
 }
 
 /* Supplier COC end from here */
+
+img.custom-img {
+    width: 216px;
+    height: 284px;
+}
+
+.esg-vision {
+    background: rgb(255, 253, 237);
+    padding: 91px 0px 140px !important;
+}
+
+@media only screen and (max-width:425px) {
+  .esg-vision {
+    background: rgb(255, 253, 237);
+    padding: 85px 0px 100px !important;
+}
+
+img.custom-img {
+    width: 150px;
+    height: 218px;
+}
+
+.esg-vision .title {
+    margin-top: 20px;
+}
+}
