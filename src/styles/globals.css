@@ -3226,5 +3226,20 @@ img.custom-img {
 }
 
 p.title.text-center {
-    margin-bottom: 0px !important;
+    margin-bottom: 20px !important;
+}
+
+.supplier-vision .description {
+    font-size: 16px!important;
+    line-height: 28px!important;
+   margin-bottom: 163px!important;
+}
+
+.supplier-vision {
+    background: #fffded!important;
+    padding: 90px 0 0px!important;
+}
+
+.supplier-vision .title {
+    margin-bottom: 55px!important;
 }
