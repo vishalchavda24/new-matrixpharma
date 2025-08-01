@@ -3218,9 +3218,13 @@ img.custom-img {
 }
 
 .esg-vision .sub-text {
-    max-width: 919px;
-    font-size: 46px;
-    line-height: 52px;
-    letter-spacing: -.28px;
-    margin-bottom: 40px;
+    margin-bottom: 40px!important;
+}
+
+.esg-vision .title {
+    margin-top: 30px !important;
+}
+
+p.title.text-center {
+    margin-bottom: 0px !important;
 }
