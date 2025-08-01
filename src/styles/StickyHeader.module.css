@@ -1,0 +1,79 @@
+/* Base header layout */
+.header {
+  background: var(--primary-color);
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  min-height: 92px;
+  transition: top 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hides header when scrolling down */
+.hide {
+  top: -100px; /* Push it up and out of view */
+}
+
+.logo img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 728px) {
+  .logo img {
+    width: 220px !important;
+    height: auto !important;
+  }
+}
+
+  
+  /* When scrolled */
+  .sticky {
+    background-color: white;
+    color: black;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Inner header layout */
+  .headerInner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 86%;
+    max-width: 1880px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  /* Logo styling */
+  .logo a {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    line-height: 1;
+    margin-top:12px;
+  }
+  
+  .sticky .logo a {
+    color: black;
+  }
+  
+  /* Accessibility: Skip to content link */
+  .skipLink {
+    position: absolute;
+    top: -50px;
+    left: 0;
+    background: #000;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    z-index: 1000;
+    transition: top 0.3s;
+  }
+  
+  .skipLink:focus {
+    top: 0;
+  }
+  

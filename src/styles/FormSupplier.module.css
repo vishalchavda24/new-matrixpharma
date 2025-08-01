@@ -1,0 +1,97 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.message {
+  color: rgb(15, 15, 15);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.formContainer form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.inputField,
+.textareaField {
+  background: transparent;
+  border: none;
+  border-bottom: 1.5px solid var(--color-primary);
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  width: 100%;
+  outline: none;
+  transition: border-bottom 0.3s ease-in-out;
+}
+
+.inputField::placeholder,
+.textareaField::placeholder {
+  color: rgba(0, 0, 0, 0.7);
+  font-family: "EuclidCircular", sans-serif;
+}
+
+.inputField:focus,
+.textareaField:focus {
+  border-bottom: 1.5px solid var(--color-primary);
+}
+
+.textareaField {
+  min-height: 100px;
+  resize: none;
+}
+
+.submitButton {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid var(--color-primary);
+  color: var(--color-primary);
+  padding: 12px 44px;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+  border-radius: 0;
+  width: min-content;
+  text-transform: uppercase;
+  margin-top: 34px;
+}
+
+.submitButton:hover {
+  background: var(--color-orage);
+  color: black;
+}
+
+.checkboxLabel {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size:14px;
+}
+
+.formActions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.downloadButton {
+  padding: 0.75rem 1.5rem;
+  background-color: #4a5568;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: background-color 0.2s;
+}
+
+.downloadButton:hover {
+  background-color: #2d3748;
+}

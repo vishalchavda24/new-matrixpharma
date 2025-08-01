@@ -1,0 +1,68 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.message {
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.formContainer form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.inputField,
+.textareaField {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  width: 100%;
+  outline: none;
+  transition: border-bottom 0.3s ease-in-out;
+}
+
+.inputField::placeholder,
+.textareaField::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+  font-family: "EuclidCircular", sans-serif;
+}
+
+.inputField:focus,
+.textareaField:focus {
+  border-bottom: 1px solid white;
+}
+
+.textareaField {
+  min-height: 100px;
+  resize: none;
+}
+
+.submitButton {
+  display: inline-block;
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 12px 44px;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+  border-radius: 0;
+  width: min-content;
+  text-transform: uppercase;
+  margin-top: 34px;
+}
+
+.submitButton:hover {
+  background: white;
+  color: black;
+}

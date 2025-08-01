@@ -1,0 +1,8 @@
+[
+  {
+    "id": "deploy-site",
+    "execute-command": "/home/matrixpharmacorp/htdocs/matrixpharmacorp.com/deploy.sh",
+    "command-working-directory": "/home/matrixpharmacorp/htdocs/matrixpharmacorp.com",
+    "response-message": "Deployment started!"
+  }
+]

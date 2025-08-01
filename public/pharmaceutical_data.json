@@ -1,0 +1,7573 @@
+[
+    {
+        "name": "Abacavir Sulfate",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "WHO",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Abaloparatide",
+        "therapeuticArea": "Osteoporosis",
+        "dmfAvailability": [
+            "USDMF",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Acyclovir",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "KDMF",
+            "CANADA",
+            "BRAZIL",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Acyclovir Na",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Alendronate Na",
+        "therapeuticArea": "Osteoporosis",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Allopurinol",
+        "therapeuticArea": "Antigout",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Almotriptan Malate",
+        "therapeuticArea": "Anti Migraine",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "CANADA",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Alprazolam",
+        "therapeuticArea": "Sedative",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Ambrisentan",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "CANADA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Amlodipine Besylate",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "KDMF",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Apixaban",
+        "therapeuticArea": "Anticoagulant",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "BRAZIL",
+            "IH"
+        ]
+    },
+    {
+        "name": "Apremilast",
+        "therapeuticArea": "Psoriatic Arthritis",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Aripiprazole",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Aripiprazole Monohydrate",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "USDMF",
+            "CANADA",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Armodafinil",
+        "therapeuticArea": "CNS Stimulant",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Atomoxetine HCl",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "CANADA",
+            "CHINA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Atorvastatin Ca Trihydrate",
+        "therapeuticArea": "Antihyperlipidemic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "KDMF",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Atovaquone",
+        "therapeuticArea": "Anti Malarial",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Azathioprine",
+        "therapeuticArea": "Immunosuppressant",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Baclofen",
+        "therapeuticArea": "CNS Agent",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Bedaquiline Fumarate",
+        "therapeuticArea": "Antituberculosis",
+        "dmfAvailability": [
+            "USDMF",
+            "WHO",
+            "IH"
+        ]
+    },
+    {
+        "name": "Betahistine DiHCl",
+        "therapeuticArea": "Meniere's disease",
+        "dmfAvailability": [
+            "CEP",
+            "EP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Blonanserin",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "JDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Bosentan",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "JDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Bromfenac Na",
+        "therapeuticArea": "Anti Inflammatory",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Canagliflozin Hemihydrate",
+        "therapeuticArea": "Anti Diabetic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Candesartan Cilexetil",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "BRAZIL",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Carvedilol",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Carvedilol Phosphate",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Celecoxib",
+        "therapeuticArea": "Anti Inflammatory",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Cetirizine DiHCl",
+        "therapeuticArea": "Anti Histamine",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Cevimeline HCl",
+        "therapeuticArea": "CNS Agent",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Chlordiazepoxide",
+        "therapeuticArea": "Sedative",
+        "dmfAvailability": [
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Citalopram HBr",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "BRAZIL",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Citalopram HCl",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "CEP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Clarithromycin",
+        "therapeuticArea": "Anti Bacterial",
+        "dmfAvailability": [
+            "CEP",
+            "JDMF",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Clidinium Bromide",
+        "therapeuticArea": "Anti Bacterial",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Clofarabine",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Clopidogrel Hydrogen Sulfate",
+        "therapeuticArea": "Antiplatelet",
+        "dmfAvailability": [
+            "CEP",
+            "USP",
+            "EP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Chlorphenoxamine",
+        "therapeuticArea": "Anti Histamine",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Clozapine",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Darunavir",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "CANADA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Darunavir Ethanolate",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "WHO",
+            "IH"
+        ]
+    },
+    {
+        "name": "Deferasirox",
+        "therapeuticArea": "Iron Chelator",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "KDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Desloratadine",
+        "therapeuticArea": "Anti Histamine",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "BRAZIL",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Dexlansoprazole Sesquihydrate",
+        "therapeuticArea": "Proton Pump Inhibitor",
+        "dmfAvailability": [
+            "USDMF",
+            "KDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Dimethyl Fumarate",
+        "therapeuticArea": "Multiple Sclerosis",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Dipyridamole",
+        "therapeuticArea": "Antiplatelet",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Disulfiram",
+        "therapeuticArea": "Alcohol Antagonist",
+        "dmfAvailability": [
+            "USDMF",
+            "USP"
+        ]
+    },
+    {
+        "name": "Dofetilide",
+        "therapeuticArea": "Anti Arrhythmic",
+        "dmfAvailability": [
+            "USDMF",
+            "USP"
+        ]
+    },
+    {
+        "name": "Dolutegravir Na",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "WHO",
+            "IH"
+        ]
+    },
+    {
+        "name": "Duloxetine HCl",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Edoxaban Tosylate",
+        "therapeuticArea": "Anticoagulant",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Efavirenz",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "WHO",
+            "CANADA",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Efinaconazole",
+        "therapeuticArea": "Anti Fungal",
+        "dmfAvailability": [
+            "USDMF",
+            "JDMF",
+            "CANADA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Eletriptan HBr Alpha",
+        "therapeuticArea": "Anti Migraine",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "JDMF",
+            "CANADA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Eletriptan HBr Beta",
+        "therapeuticArea": "Anti Migraine",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Empagliflozin",
+        "therapeuticArea": "Anti Diabetic",
+        "dmfAvailability": [
+            "USDMF",
+            "KDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Emtricitabine",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "WHO",
+            "CANADA",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Enrofloxacin",
+        "therapeuticArea": "Animal Health Product",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Epinephrine",
+        "therapeuticArea": "Anti Histamine",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Epinephrine Bitartrate",
+        "therapeuticArea": "Anti Histamine",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Escitalopram Oxalate",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "KDMF",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Esomeprazole Mg Amorphous",
+        "therapeuticArea": "Proton Pump Inhibitor",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "CANADA",
+            "USP"
+        ]
+    },
+    {
+        "name": "Esomeprazole Mg Trihydrate",
+        "therapeuticArea": "Proton Pump Inhibitor",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "CHINA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Eszopiclone",
+        "therapeuticArea": "Sedative",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Ethacrynic Acid",
+        "therapeuticArea": "Diuretic",
+        "dmfAvailability": [
+            "USDMF",
+            "USP"
+        ]
+    },
+    {
+        "name": "Etoricoxib",
+        "therapeuticArea": "Anti Inflammatory",
+        "dmfAvailability": [
+            "ASMF/CTD",
+            "KDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Etravirine",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Ezetimibe",
+        "therapeuticArea": "Antihyperlipidemic",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Febuxostat",
+        "therapeuticArea": "Antigout",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "JDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Felbamate",
+        "therapeuticArea": "Anti Epileptic",
+        "dmfAvailability": [
+            "USDMF",
+            "USP"
+        ]
+    },
+    {
+        "name": "Ferric Carboxymaltose",
+        "therapeuticArea": "Antianemic",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Ferumoxytol",
+        "therapeuticArea": "Antianemic",
+        "dmfAvailability": [
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Fexofenadine HCl",
+        "therapeuticArea": "Anti Histamine",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Fingolimod HCl",
+        "therapeuticArea": "Multiple Sclerosis",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Fluconazole",
+        "therapeuticArea": "Anti Fungal",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Flucytosine",
+        "therapeuticArea": "Anti Fungal",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Formoterol Fumarate",
+        "therapeuticArea": "Anti Asthmatic",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Fosamprenavir Ca",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Frovatriptan Succinate",
+        "therapeuticArea": "Anti Migraine",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "IH"
+        ]
+    },
+    {
+        "name": "Gabapentin",
+        "therapeuticArea": "Anti Epileptic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Ibandronate Na",
+        "therapeuticArea": "Osteoporosis",
+        "dmfAvailability": [
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Ibrutinib",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Icatibant Acetate",
+        "therapeuticArea": "Hereditary Angioedema",
+        "dmfAvailability": [
+            "USDMF",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Irbesartan",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Iron Dextran",
+        "therapeuticArea": "Antianemic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Iron Sucrose",
+        "therapeuticArea": "Antianemic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Isothipendyl",
+        "therapeuticArea": "Antipruritic",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Itraconazole",
+        "therapeuticArea": "Anti Fungal",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Lamivudine",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "WHO",
+            "CANADA",
+            "BRAZIL",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Lamotrigine",
+        "therapeuticArea": "Anti Epileptic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Lansoprazole",
+        "therapeuticArea": "Proton Pump Inhibitor",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Lanthanum Carbonate Octahydrate",
+        "therapeuticArea": "Phosphate Binder",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "JDMF",
+            "KDMF",
+            "CANADA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Lanthanum Carbonate Tetrahydrate",
+        "therapeuticArea": "Phosphate Binder",
+        "dmfAvailability": [
+            "USDMF",
+            "CHINA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Lenalidomide",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "KDMF",
+            "BRAZIL",
+            "CHINA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Leuprolide Acetate",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Levofloxacin Hemihydrate",
+        "therapeuticArea": "Anti Bacterial",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Linagliptin",
+        "therapeuticArea": "Anti Diabetic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Lopinavir",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "WHO",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Loratadine",
+        "therapeuticArea": "Anti Histamine",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "KDMF",
+            "CANADA",
+            "BRAZIL",
+            "CHINA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Losartan Potassium",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "JDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Lumacaftor",
+        "therapeuticArea": "Cystic Fibrosis",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Lurasidone HCl",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Macitentan",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Mafenide Acetate",
+        "therapeuticArea": "Antibiotic",
+        "dmfAvailability": [
+            "USDMF",
+            "USP"
+        ]
+    },
+    {
+        "name": "Mecloxamine Citrate",
+        "therapeuticArea": "Antimigraine",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Memantine HCl",
+        "therapeuticArea": "Anti Parkinson's",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "CANADA",
+            "BRAZIL",
+            "CHINA",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Mesalamine",
+        "therapeuticArea": "Anti Inflammatory",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Mifepristone",
+        "therapeuticArea": "Obstetric Drug",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Miglustat",
+        "therapeuticArea": "Enzyme Inhibitor",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "IH"
+        ]
+    },
+    {
+        "name": "Mirtazapine",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "BRAZIL",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Modafinil",
+        "therapeuticArea": "CNS Stimulant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Montelukast Na",
+        "therapeuticArea": "Anti Asthmatic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "KDMF",
+            "CANADA",
+            "BRAZIL",
+            "CHINA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Moxifloxacin HCl",
+        "therapeuticArea": "Anti Bacterial",
+        "dmfAvailability": [
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Nadolol",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Netupitant",
+        "therapeuticArea": "Anti Emetic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Nicergoline",
+        "therapeuticArea": "Dementia",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Octreotide",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "O-Desmethyl Venlafaxine Succinate",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CANADA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Olmesartan Medoxomil",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "KDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Oseltamivir Phosphate",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "USDMF",
+            "JDMF",
+            "WHO",
+            "CHINA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Oxcarbazepine",
+        "therapeuticArea": "Anti Epileptic",
+        "dmfAvailability": [
+            "CEP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Palbociclib",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Paliperidone",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Paliperidone Palmitate",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Pantoprazole Mg Hemipentahydrate",
+        "therapeuticArea": "Proton Pump Inhibitor",
+        "dmfAvailability": [
+            "CANADA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Pantoprazole Na Sesquihydrate",
+        "therapeuticArea": "Proton Pump Inhibitor",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Parecoxib Na",
+        "therapeuticArea": "Anti Inflammatory",
+        "dmfAvailability": [
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Paroxetine HCl Anhydrous",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "CEP",
+            "KDMF",
+            "EP"
+        ]
+    },
+    {
+        "name": "Paroxetine HCl Hemihydrate",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "KDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Penciclovir",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Phentolamine Mesylate",
+        "therapeuticArea": "Cardiovascular",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Phenytoin",
+        "therapeuticArea": "Anti Epileptic",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Phenytoin Na",
+        "therapeuticArea": "Anti Epileptic",
+        "dmfAvailability": [
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Pioglitazone HCl",
+        "therapeuticArea": "Anti Diabetic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Pipazetate",
+        "therapeuticArea": "Antitussive agent",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Pitavastatin Ca",
+        "therapeuticArea": "Antihyperlipidemic",
+        "dmfAvailability": [
+            "USDMF",
+            "JDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Plecanatide",
+        "therapeuticArea": "Gastrointestinal Agent",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Plerixafor",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "CHINA",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Pomalidomide",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Ponatinib",
+        "therapeuticArea": "Anti Neoplastic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Pramipexole DiHCl",
+        "therapeuticArea": "Anti Parkinson's",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Prasugrel HCl",
+        "therapeuticArea": "Antiplatelet",
+        "dmfAvailability": [
+            "USDMF",
+            "USP"
+        ]
+    },
+    {
+        "name": "Pregabalin",
+        "therapeuticArea": "Anti Epileptic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "KDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Primaquine Phosphate",
+        "therapeuticArea": "Anti Malarial",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Proguanil HCl",
+        "therapeuticArea": "Anti Malarial",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Propafenone",
+        "therapeuticArea": "Anti Arrhythmic",
+        "dmfAvailability": [
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Prothipendyl",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Quetiapine Fumarate",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "KDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Raltegravir Potassium",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Rasagiline Mesylate",
+        "therapeuticArea": "Anti Parkinson's",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "KDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Risedronate Na",
+        "therapeuticArea": "Osteoporosis",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Risperidone",
+        "therapeuticArea": "Anti Psychotic",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "KDMF",
+            "CHINA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Ritonavir",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "WHO",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Rivaroxaban",
+        "therapeuticArea": "Anticoagulant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Rivastigmine",
+        "therapeuticArea": "Anti Alzheimer",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "KDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Rizatriptan Benzoate",
+        "therapeuticArea": "Anti Migraine",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Roflumilast",
+        "therapeuticArea": "COPD & Plaque Psoriasis",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Rosuvastatin Ca",
+        "therapeuticArea": "Antihyperlipidemic",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "JDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Rotigotine",
+        "therapeuticArea": "Anti Parkinson's",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Roxadustat",
+        "therapeuticArea": "Antianemic",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Sacubitril",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Sacubitril Valsartan",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Salcaprozate Na",
+        "therapeuticArea": "Permeation Enhancer",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Sertraline HCl Form I",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "CEP",
+            "JDMF",
+            "BRAZIL",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Sertraline HCl Form II",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Sevelamer Carbonate",
+        "therapeuticArea": "Phosphate Binder",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Sildenafil Citrate",
+        "therapeuticArea": "Erectile Dysfunction",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "KDMF",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Sitagliptin Phosphate Anhydrous",
+        "therapeuticArea": "Anti Diabetic",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "KDMF",
+            "USP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Sitagliptin HCl Monohydrate",
+        "therapeuticArea": "Anti Diabetic",
+        "dmfAvailability": [
+            "ASMF/CTD",
+            "IH"
+        ]
+    },
+    {
+        "name": "Sodium Ferric Gluconate",
+        "therapeuticArea": "Antianemic",
+        "dmfAvailability": [
+            "USDMF",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Sodium Nitroprusside",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Sofosbuvir",
+        "therapeuticArea": "Hepatitis C",
+        "dmfAvailability": [
+            "USDMF",
+            "WHO",
+            "IH"
+        ]
+    },
+    {
+        "name": "Sucroferric Oxyhydroxide",
+        "therapeuticArea": "Phosphate Binder",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Sugammadex Na",
+        "therapeuticArea": "CNS Agent",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "IH",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Sumatriptan Succinate",
+        "therapeuticArea": "Anti Migraine",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "CANADA",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Tadalafil",
+        "therapeuticArea": "Erectile Dysfunction",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "KDMF",
+            "CANADA",
+            "USP",
+            "EP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Tapinarof",
+        "therapeuticArea": "Plaque Psoriasis",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Telbivudine",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "ASMF/CTD",
+            "IH"
+        ]
+    },
+    {
+        "name": "Telmisartan",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Tenofovir Disoproxil Fumarate",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "KDMF",
+            "WHO",
+            "CANADA",
+            "IH"
+        ]
+    },
+    {
+        "name": "Tenoxicam",
+        "therapeuticArea": "Anti Inflammatory",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Tetrabenazine",
+        "therapeuticArea": "Anti Parkinson's",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "IH"
+        ]
+    },
+    {
+        "name": "Ticagrelor",
+        "therapeuticArea": "Antiplatelet",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Tizanidine HCl",
+        "therapeuticArea": "Antispasticity Agent",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Tofacitinib Citrate",
+        "therapeuticArea": "Rheumatoid Arthritis",
+        "dmfAvailability": [
+            "USDMF",
+            "JDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Tolmetin Na",
+        "therapeuticArea": "Anti Inflammatory",
+        "dmfAvailability": [
+            "USDMF",
+            "USP"
+        ]
+    },
+    {
+        "name": "Torasemide",
+        "therapeuticArea": "Diuretic",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Trazodone HCl",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "CEP",
+            "KDMF",
+            "CANADA",
+            "BRAZIL",
+            "CHINA",
+            "USP",
+            "EP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Valacyclovir HCl",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "KDMF",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Valacyclovir HCl Anhydrous",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "JDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Valganciclovir HCl Amorphous",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "ASMF/CTD",
+            "CANADA",
+            "EP",
+            "IH"
+        ]
+    },
+    {
+        "name": "Valganciclovir HCl Crystalline",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "USDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Valganciclovir HCl Crystalline Form A",
+        "therapeuticArea": "Anti Viral",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Valsartan",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Varenicline Tartrate",
+        "therapeuticArea": "Smoking Cessation",
+        "dmfAvailability": [
+            "USDMF",
+            "ASMF/CTD",
+            "IH"
+        ]
+    },
+    {
+        "name": "Venlafaxine HCl",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Verapamil HCl",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Vilazodone HCl",
+        "therapeuticArea": "Anti Depressant",
+        "dmfAvailability": [
+            "USDMF",
+            "IH"
+        ]
+    },
+    {
+        "name": "Vildagliptin",
+        "therapeuticArea": "Anti Diabetic",
+        "dmfAvailability": [
+            "BRAZIL",
+            "IH"
+        ]
+    },
+    {
+        "name": "Voriconazole",
+        "therapeuticArea": "Anti Fungal",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Xipamide",
+        "therapeuticArea": "Diuretic",
+        "dmfAvailability": [
+            "IH"
+        ]
+    },
+    {
+        "name": "Zidovudine",
+        "therapeuticArea": "Anti Retroviral",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "WHO",
+            "USP",
+            "EP",
+            "Injectable"
+        ]
+    },
+    {
+        "name": "Zofenopril Ca",
+        "therapeuticArea": "Anti Hypertensive",
+        "dmfAvailability": [
+            "ASMF/CTD",
+            "IH"
+        ]
+    },
+    {
+        "name": "Zolmitriptan",
+        "therapeuticArea": "Anti Migraine",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "CANADA",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "Zolpidem Tartrate",
+        "therapeuticArea": "Sedative",
+        "dmfAvailability": [
+            "USDMF",
+            "CEP",
+            "JDMF",
+            "KDMF",
+            "CANADA",
+            "BRAZIL",
+            "USP",
+            "EP"
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "therapeuticArea": "",
+        "dmfAvailability": [
+            ""
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+@media screen and (min-width:786px) {
+    .logomob {
+        display: none;
+    }
+}
+
+@media screen and (max-width:786px) {
+    .logoweb {
+        display: none;
+    }
+    .logomob {
+        width:220px;
+        height:auto;
+        margin-bottom: 10px!important;
+    }
+}
