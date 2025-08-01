@@ -3243,3 +3243,7 @@ p.title.text-center {
 .supplier-vision .title {
     margin-bottom: 55px!important;
 }
+
+.supplier-vision .container {
+    padding-bottom: 40px;
+}
