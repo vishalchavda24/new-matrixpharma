@@ -3250,7 +3250,7 @@ p.title.text-center {
 
 
 .MenuToggle_menuToggle__YAo5f {
-    height: 96px !important;
+    height: 90px !important;
 }
 
 
@@ -3264,7 +3264,7 @@ p.title.text-center {
 }
 
   .StickyHeader_headerInner__LGIP5 {
-    height: 76px!important;
+    height: 88px!important;
 }
 
   section.supplier-vision-image {
@@ -3276,12 +3276,16 @@ p.title.text-center {
     transition: opacity 1.5s ease-in !important;;
 }
 
-/* .StickyHeader_logo__nIO_S a {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: white;
-    display: inline-block;
-    line-height: 1;
+.StickyHeader_logo__nIO_S a {
     margin-top: 25px !important;
-} */
+}
 
+.StickyHeader_headerInner__LGIP5 {
+    align-items: auto !important;
+    width: 86%;
+    max-width: 1880px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  margin-bottom:-13px!important;
+  
+}
