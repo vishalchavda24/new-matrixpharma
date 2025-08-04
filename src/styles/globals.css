@@ -3266,6 +3266,10 @@ p.title.text-center {
   .StickyHeader_headerInner__LGIP5 {
     height: 76px!important;
 }
+
+  section.supplier-vision-image {
+    margin-top: -10px;
+}
 }
 
 .MenuToggle_menu__dQLUw {
