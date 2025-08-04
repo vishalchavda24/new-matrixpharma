@@ -3272,11 +3272,12 @@ p.title.text-center {
     transition: opacity 1.5s ease-in !important;;
 }
 
-.StickyHeader_logo__nIO_S a {
+/* .StickyHeader_logo__nIO_S a {
     font-size: 1.5rem;
     font-weight: 700;
     color: white;
     display: inline-block;
     line-height: 1;
     margin-top: 25px !important;
-}
+} */
+
