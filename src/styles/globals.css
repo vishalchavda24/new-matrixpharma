@@ -3271,3 +3271,13 @@ p.title.text-center {
 .MenuToggle_menu__dQLUw {
     transition: opacity 1.5s ease-in !important;;
 }
+
+.StickyHeader_logo__nIO_S a {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white;
+    display: inline-block;
+    line-height: 1;
+    margin-top: 21px !important;
+    /* padding-top: 10px; */
+}
