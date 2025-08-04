@@ -3289,3 +3289,7 @@ p.title.text-center {
   margin-bottom:-16px!important;
   
 }
+
+.esg-vision .description {
+    max-width: 73rem!important;
+}
