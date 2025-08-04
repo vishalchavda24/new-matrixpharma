@@ -364,7 +364,7 @@ const sustainability = ({ children }) => {
             srcSet="/assets/images/sustainibilty/matrix-pharma-mobile.png"
           />
           <img 
-            src="/assets/images/sustainibilty/matrix-pharma-desktop40.png" 
+            src="/assets/images/sustainibilty/Matrix Pharma Corp_ESG PageArtboard 40 copy.png" 
             alt="ESG Vision - Matrix Pharma Corp"
             style={{ width: '100vw', height: 'auto', display: 'block' }}
           />
