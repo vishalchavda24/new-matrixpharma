@@ -62,7 +62,7 @@ const sustainability = ({ children }) => {
 
           <p className="description text-center mx-auto">
             Our ESG vision defines the future we aim to build for our business,
-            employees, communities, and the planet.<br></br> To bring this vision to
+            employees, communities, and the planet. To bring this vision to
             life, we are shaping an ESG strategy anchored in three core pillars:
           </p>
 
