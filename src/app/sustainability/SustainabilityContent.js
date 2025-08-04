@@ -337,41 +337,48 @@ const sustainability = ({ children }) => {
       </section>
       {/* Sustanibility two column end */}
 
-      {/* Supplier vision start */}
-       <section className="supplier-vision">
-        <div className="container">
-          <h2 className="title text-center mx-auto">Supplier engagement</h2>
+      {/* Supplier vision text section start */}
+<section className="supplier-vision">
+  <div className="container">
+    <h2 className="title text-center mx-auto">Supplier engagement</h2>
 
-          <p className="description text-center mx-auto">
-            We firmly believe that our suppliers are strategic partners in our
-            growth and impact journey. They have a key role in upholding the
-            quality, reliability, and values our business stands for. In line
-            with this belief, we are committed to building resilient and
-            responsible supplier partnerships by embedding sustainability across
-            our procurement practices.
-            <br />
-            <br />
-            To put our commitment into practice, we have designed a
-            comprehensive supplier engagement program. Through this program, we
-            aim to offer the training, and support needed to drive continuous
-            improvement. Suppliers who actively progress on ESG performance will
-            be integral to our long-term sourcing decisions.
-          </p>
-        
-      <picture>
-          <source 
-            media="(max-width: 768px)" 
-            srcSet="/assets/images/sustainibilty/matrix-pharma-mobile.png"
-          />
-          <img 
-            src="/assets/images/sustainibilty/Matrix Pharma Corp_ESG PageArtboard 40 copy.png" 
-            alt="ESG Vision - Matrix Pharma Corp"
-            style={{ width: '100vw', height: 'auto', display: 'block' }}
-          />
-        </picture>
-            </div>
-      </section>
-      {/* Supplier vision end */}
+    <p className="description text-center mx-auto">
+      We firmly believe that our suppliers are strategic partners in our
+      growth and impact journey. They have a key role in upholding the
+      quality, reliability, and values our business stands for. In line
+      with this belief, we are committed to building resilient and
+      responsible supplier partnerships by embedding sustainability across
+      our procurement practices.
+      <br />
+      <br />
+      To put our commitment into practice, we have designed a
+      comprehensive supplier engagement program. Through this program, we
+      aim to offer the training, and support needed to drive continuous
+      improvement. Suppliers who actively progress on ESG performance will
+      be integral to our long-term sourcing decisions.
+    </p>
+  </div>
+</section>
+{/* Supplier vision text section end */}
+
+{/* Supplier vision image section start */}
+<section className="supplier-vision-image">
+  <div className="container-fluid p-0">
+    <picture>
+      <source 
+        media="(max-width: 768px)" 
+        srcSet="/assets/images/sustainibilty/matrix-pharma-mobile.png"
+      />
+      <img 
+        src="/assets/images/sustainibilty/Matrix Pharma Corp_ESG PageArtboard 40 copy.png" 
+        alt="ESG Vision - Matrix Pharma Corp"
+        style={{ width: '100vw', height: 'auto', display: 'block' }}
+      />
+    </picture>
+  </div>
+</section>
+{/* Supplier vision image section end */}
+
 
       {/* Partner section start */}
       <section className="esg-two-col partner-sec">
