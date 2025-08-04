@@ -3278,6 +3278,5 @@ p.title.text-center {
     color: white;
     display: inline-block;
     line-height: 1;
-    margin-top: 21px !important;
-    /* padding-top: 10px; */
+    margin-top: 25px !important;
 }
