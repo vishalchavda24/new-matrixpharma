@@ -3272,7 +3272,7 @@ p.title.text-center {
 }
 
   .Hero_hero__Z352h, .Hero_hero_one__74yLh {
-    background-position: 60%;
+    background-position: 60%!important;
     display: flex;
 }
 }
