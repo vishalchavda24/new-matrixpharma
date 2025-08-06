@@ -3270,6 +3270,11 @@ p.title.text-center {
   section.supplier-vision-image {
     margin-top: -10px;
 }
+
+  .Hero_hero__Z352h, .Hero_hero_one__74yLh {
+    background-position: 60%;
+    display: flex;
+}
 }
 
 .MenuToggle_menu__dQLUw {
@@ -3293,3 +3298,4 @@ p.title.text-center {
 .esg-vision .description {
     max-width: 73rem!important;
 }
+
