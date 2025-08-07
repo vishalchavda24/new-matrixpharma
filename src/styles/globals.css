@@ -3326,9 +3326,11 @@ p.title.text-center {
     margin-bottom: 50px!important;
 }
 
-  .StickyHeader_headerInner_LGIP5 h1.StickyHeader_logo_nIO_S img{
-    height: 58px!important;
-}
+  .StickyHeader_header__ZKv_Y 
+  .StickyHeader_headerInner__LGIP5 
+  .StickyHeader_logo__nIO_S img {
+    height: 58px
+
 
   p.description.text-center.mx-auto {
     text-align: left !important;
