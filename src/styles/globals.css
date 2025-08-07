@@ -3297,6 +3297,11 @@ p.title.text-center {
   .policies .download-link {
     font-size: 18px!important;
     line-height: 24px!important;
+    border-bottom: 1px solid #f04f3f!important;
+}
+
+  .policies {
+    padding: 90px 0!important;
 }
 }
 
