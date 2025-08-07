@@ -3325,6 +3325,11 @@ p.title.text-center {
   .mg-bottom-large {
     margin-bottom: 50px!important;
 }
+
+  .StickyHeader_logo__nIO_S img {
+    width: 220px!important;
+    height: 58px!important;
+}
 }
 
 .MenuToggle_menu__dQLUw {
