@@ -3334,10 +3334,10 @@ p.title.text-center {
 }
 
 
-  .ul-list li::before {
-  content: "•"!important;
-  font-size: 12px!important;/* bullet size */
+  .ul-list li::marker {
+  font-size: 12px!important;
 }
+
 }
 
 .MenuToggle_menu__dQLUw {
