@@ -258,17 +258,17 @@ const sustainability = ({ children }) => {
             </p>
             <div className="ul-list">
               <li className="mb-0 fw-medium">
-                ▪ ISO 9001 - Quality Management System
+                ISO 9001 - Quality Management System
               </li>
               <li className="mb-0 fw-medium">
-                ▪ ISO 45001:2018 - Occupational Health & Safety Management
+                ISO 45001:2018 - Occupational Health & Safety Management
                 System
               </li>
               <li className="mb-0 fw-medium">
-                ▪ ISO 14001:2015 - Environmental Management System
+                ISO 14001:2015 - Environmental Management System
               </li>
               <li className="mb-0 fw-medium">
-                ▪ ISO 50001 - Energy Management System
+                ISO 50001 - Energy Management System
               </li>
             </div>
           </div>
