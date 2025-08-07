@@ -3279,7 +3279,13 @@ p.title.text-center {
   .esg-vision .row .heading {
     font-size: 20px!important;
    line-height:26px !important;
+     width: 60%!important;
+    font-weight: 500 !important;
 }
+
+  .esg-vision .row .box {
+    top: -8px !important;
+  }
 
   .resource-management .mb-70 {
     margin-bottom: 50px !important;
@@ -3302,10 +3308,6 @@ p.title.text-center {
 
   .policies {
     padding: 90px 0!important;
-}
-
-  .esg-vision .row .heading {
-    width: 60%!important;
 }
 }
 
