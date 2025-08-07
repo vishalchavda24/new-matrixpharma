@@ -3332,6 +3332,12 @@ p.title.text-center {
   p.description.text-center.mx-auto {
     text-align: left !important;
 }
+
+
+  .ul-list li::before {
+  content: "•"!important;
+  font-size: 12px!important;/* bullet size */
+}
 }
 
 .MenuToggle_menu__dQLUw {
