@@ -3275,6 +3275,11 @@ p.title.text-center {
     background-position: 60%!important;
     display: flex;
 }
+
+  .esg-vision .row .heading {
+    font-size: 20px!important;
+   line-height:26px !important;
+}
 }
 
 .MenuToggle_menu__dQLUw {
@@ -3294,6 +3299,8 @@ p.title.text-center {
   margin-bottom:-16px!important;
   
 }
+
+
 
 .esg-vision .description {
     max-width: 73rem!important;
