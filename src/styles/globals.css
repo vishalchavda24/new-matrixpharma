@@ -3330,6 +3330,10 @@ p.title.text-center {
     width: 220px!important;
     height: 58px!important;
 }
+
+  p.description.text-center.mx-auto {
+    text-align: left !important;
+}
 }
 
 .MenuToggle_menu__dQLUw {
