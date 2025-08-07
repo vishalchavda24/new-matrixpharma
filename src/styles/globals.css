@@ -3303,6 +3303,10 @@ p.title.text-center {
   .policies {
     padding: 90px 0!important;
 }
+
+  .esg-vision .row .heading {
+    width: 60%!important;
+}
 }
 
 .MenuToggle_menu__dQLUw {
